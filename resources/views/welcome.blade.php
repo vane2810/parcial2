@@ -12,7 +12,12 @@
     <header>
         <nav id= "barra"class="navbar navbar-expand-lg">
             <a class="navbar-brand" href="/">Biblioteca Nacional</a>
+            <a class="navbar-brand" href="/">Inicio</a>
+            <a class="navbar-brand">Categorías</a>
+            <a class="navbar-brand">Préstamos</a>
+            <a class="navbar-brand">Iniciar Sesión</a>
         </nav>
+        
     </header>
 
     <section> 
@@ -23,6 +28,8 @@
             actividades culturales y académicas que enriquecen la vida intelectual de la sociedad.
         </p>
     </section>
+
+    <h4>Conoce nuestras obras populares</h4>
 
     <div class="d-flex justify-content-between">
         <div class="card">
@@ -80,5 +87,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
     <footer>
+        <p>Acerca de nosotros</p> 
+        <p>Contáctanos: bibliotecanacional@gmail.com</p>
     </footer>
 </html>
